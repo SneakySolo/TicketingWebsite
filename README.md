@@ -1,6 +1,5 @@
 # IT TicketingWebsite
 
-![Ticketing](https://github.com/user-attachments/assets/d938cd8b-aff3-4b4b-9b05-32880d9d6aba)
 This is my First project I did using JSP, SERVLET, MYSQL and TOMCAT Server to run/host it. I hope you like it :)
 
 ### Requirements
