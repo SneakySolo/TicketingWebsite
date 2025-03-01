@@ -15,3 +15,4 @@ Nothing, this can run even on a potato PC
 - Few Admin features
 
 ### Demo
+https://github.com/user-attachments/assets/9e6020e5-3477-402f-afc6-9dad222a72f0
