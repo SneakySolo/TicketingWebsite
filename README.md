@@ -1,18 +1,56 @@
-# IT TicketingWebsite
+# 🧾 IT Ticketing Website
 
-This is my First project I did using JSP, SERVLET, MYSQL along with JDBC and TOMCAT Server to run/host it. I hope you like it :)
+![Java](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
+![JSP](https://img.shields.io/badge/Frontend-JSP-blue)
+![Servlet](https://img.shields.io/badge/Backend-Servlets-brightgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
+![Tomcat](https://img.shields.io/badge/Server-Tomcat-red?logo=apache)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-### Requirements
-Nothing, this can run even on a potato PC
+This is my **first web project**, built using **JSP, Servlets, MySQL, and JDBC** — hosted locally on **Apache Tomcat**.  
+It’s a simple **IT Ticketing System** where users can raise, view, and manage support tickets while admins can monitor and respond to them.  
+It also includes login, signup, password recovery, chat, and profile management functionalities.
 
-### Features
-- Welcome page and Login page for user
-- Profile update feature
-- Forget Password feature
-- Ticket raising and viewing
-- Admin features (log in/out, view tickets, approve tickets, etc)
-- Chatroom to communicate with the Admin
-- Few Admin features
+---
 
-### Demo
-https://github.com/user-attachments/assets/484205c9-5969-4b50-af7c-4b3f7cea4d95
+## 🧩 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | JSP, HTML, CSS |
+| **Backend** | Java Servlets |
+| **Database** | MySQL |
+| **Server** | Apache Tomcat (v10.1) |
+| **Connector** | JDBC |
+| **IDE** | Eclipse (but you may use ur comfort IDE) |
+
+---
+
+## ⚙️ Requirements
+> Nothing fancy — this project runs smoothly even on a potato PC 🥔  
+
+You just need:
+- JDK 21 or above  
+- Apache Tomcat 10.1  
+- MySQL Server  
+- JDBC Connector (in `lib` folder or Tomcat `lib` directory)
+
+---
+
+## 🚀 Features
+
+### 👤 User Features
+- ✅ **Signup and Login** pages  
+- 🔄 **Forgot Password** recovery system  
+- 🧾 **Raise, View, and Delete Tickets**  
+- 💬 **Chatroom** to communicate with the Admin  
+- 👤 **Profile Management:** Update and view user profile  
+
+### 🛠️ Admin Features
+- 🔐 **Admin Login & Logout**  
+- 🗂️ **View All Tickets**  
+- ✔️ **Approve or Close Tickets**  
+- 🗨️ **Interact via Chatroom** with users  
+- 🧹 **Delete Tickets** or manage records
+
+P.S - I **might** come back to this project and involve SpringBoot+Jpa here
