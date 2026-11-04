@@ -7,7 +7,7 @@
 ![Tomcat](https://img.shields.io/badge/Server-Tomcat-red?logo=apache)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-This is my **first web project**, built using **JSP, Servlets, MySQL, and JDBC** — hosted locally on **Apache Tomcat**.  
+This is my **first web project**, built using **JSP, Servlets, MySQL, and JDBC** — hosted locally on **Apache Tomcat**.
 It’s a simple **IT Ticketing System** where users can raise, view, and manage support tickets while admins can monitor and respond to them. 
 It also includes login, signup, password recovery, chat, and profile management functionalities.
 
